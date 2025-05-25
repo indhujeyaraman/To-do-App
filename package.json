@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://indhujeyaraman.github.io/T0-do-App",
+  "homepage": "https://indhujeyaraman.github.io/To-do-App",
  "scripts": {
     "dev": "vite",
     "build": "vite build",
